@@ -242,14 +242,11 @@ header {
   }
 
   .trainer img {
-    width: 35%;
-    float: left;
+    width: 100%;
   }
   
   .trainer-bio {
-    padding: 35px;
-    float: left;
-    width: 65%;
+    padding: 25px;
     line-height: 1.3;
   }
   
